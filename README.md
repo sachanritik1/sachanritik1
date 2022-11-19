@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sachanritik1
-- 👀 I’m interested in  ""  REACT ,""  NODEJS ,"" EXPRESS "" and "" MERN "" stack.
-- 🌱 I’m currently learning  web development
-- 💞️ I’m looking to collaborate on web development
+- 👋 Hi, I’m @sachanritik
+- 💞️ I’m looking to collaborate
 - 📫 reach me at sachanritik1@gmail.com
 
 <!---
