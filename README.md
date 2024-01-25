@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritik Sachan</h1>
 <h3 align="center">Galgotias College of engineering and technology</h3>
 
-- ⚡ Fun fact **I AM A WEB DEVELOPER**
+- I have a 1 year exprience in frontend developnent (ReactJS, tailwindCSS).
+- Currently learning backend (ExpressJS , MongoDB, PostgresSQL).
+- Solved 250+ questions on <a href="https://leetcode.com/sachanritik1/" target="blank">Leetcode</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
