@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Sachan</h1>
 <h3 align="center">Galgotias College of engineering and technology</h3>
 
-- I am fullstack developer (MERN).
+- I am full stack developer (MERN).
 - Currently learning backend development (Webhooks, webrtc Redis, PostgresSQL).
 - Solved 250+ questions on <a href="https://leetcode.com/sachanritik1/" target="blank">Leetcode</a>
 
