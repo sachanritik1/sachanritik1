@@ -2,7 +2,7 @@
 <h3 align="center">Galgotias College of engineering and technology</h3>
 
 - I am full stack developer (MERN / PERN).
-- Currently learning backend development (webrtc, Redis and Devops).
+- Currently learning backend development.
 - Solved 250+ questions on <a href="https://leetcode.com/sachanritik1/" target="blank">Leetcode</a>
 
 <h3 align="left">Connect with me:</h3>
