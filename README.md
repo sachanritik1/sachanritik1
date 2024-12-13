@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Sachan</h1>
-<h3 align="center">Galgotias College of engineering and technology</h3>
+<h2 align="center">Galgotias College of Engineering and Technology</h2>
 
 - I am full stack developer (MERN / PERN).
 - Currently learning backend development.
